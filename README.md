@@ -39,8 +39,7 @@ Sigue estos pasos para configurar el proyecto en tu entorno local:
 
 1. **Clona el Repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/libreria-mvc-php.git
-   cd libreria-mvc-php.
+   git clone https://github.com/Thevage97/Librer-a-MVC-en-PHP.git
 
 2. **Configura la Base de Datos:**
 
@@ -68,7 +67,7 @@ Importa el archivo SQL proporcionado en la carpeta database (si lo hay) o crea l
 
 Si est√°s usando XAMPP, coloca la carpeta del proyecto en htdocs y accede a:
 
-     http://localhost/libreria-mvc-php/public/index.php
+     http://localhost/libreriaMvc/public/index.php/
 
 ## Uso
 Ver la Lista de Libros:
@@ -108,6 +107,6 @@ Haz clic en "Eliminar" en la tarjeta del libro que deseas eliminar. Se te pedir√
 ## Autor
 Carlos Ivan P
 
-GitHub: vizukrako
+GitHub: Thevage97
 
 Email: vizukrako@gmail.com
